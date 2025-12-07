@@ -102,3 +102,4 @@ C:\Users\dbazi\AdmissionApi\Admission.Api\obj\Debug\net8.0\refint\Admission.Api.
 C:\Users\dbazi\AdmissionApi\Admission.Api\obj\Debug\net8.0\Admission.Api.pdb
 C:\Users\dbazi\AdmissionApi\Admission.Api\obj\Debug\net8.0\Admission.Api.genruntimeconfig.cache
 C:\Users\dbazi\AdmissionApi\Admission.Api\obj\Debug\net8.0\ref\Admission.Api.dll
+C:\Users\dbazi\AdmissionApi\Admission.Api\obj\Debug\net8.0\Admission.Api.sourcelink.json
